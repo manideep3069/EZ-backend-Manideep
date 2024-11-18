@@ -10,7 +10,7 @@ A secure file-sharing system between two different types of users (Ops User and 
 - List Uploaded Files
 
 ## Setup
-1. Download and import the [Postman collection](File Sharing System API.postman_collection.json) into Postman.
+1. Download and import the [Postman collection] (File Sharing System API.postman_collection.json) into Postman.
 2. Use the collection to test the API endpoints.
 1. Clone the repository:
    ```bash
